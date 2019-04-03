@@ -1,8 +1,11 @@
 # RoomController
 
 Nome:                       RA:
-Gabriel Soares Campanário   16.00151-6
+
+Gabriel Soares Campanário   16.00151-6 
+
 Willian Rodrigues Chan      16.01095-7
+
 Kevin Yuki Okawa Iiyama     16.01391-3
 
 Sistema embarcado responsável por fazer controle geral de uma sala, realizando as seguintes funções:
