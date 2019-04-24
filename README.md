@@ -8,16 +8,14 @@ Willian Rodrigues Chan      16.01095-7
 
 Kevin Yuki Okawa Iiyama     16.01391-3
 
-Sistema embarcado responsável por fazer controle geral de uma sala, realizando as seguintes funções:
+Robo controlado por bluetooth com bomba d'água para extinguir chamas.
 
-* Contagem de pessoas presentes;
-* Controle de temperatura;
-* Controle de dispositivos por infravermelho;
-* Monitorar temperatura e umidade.
+*Movimentação plana controlada via bluetooth;
+*Controle da bomba;
+*Bombeamento de água.
 
 Componentes utilizados:
-* Microcontrolador Atmel ATSAM4SD32C;
-* Sensor de presença;
-* Sensor de temperatura;
-* Sensor de umidade;
-* Blaster infravermelho.
+*Mini bomba de água DC-JT160
+*Módulo Bluetooth
+*Motor DC 6-12V com caixa de redução
+*Ponte H baixa potência
