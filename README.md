@@ -15,7 +15,11 @@ Robo controlado por bluetooth com bomba d'água para extinguir chamas.
 *Bombeamento de água.
 
 Componentes utilizados:
+
 *Mini bomba de água DC-JT160
+
 *Módulo Bluetooth
-*Motor DC 6-12V com caixa de redução
+
+*2 x Motor DC 6-12V com caixa de redução
+
 *Ponte H baixa potência
