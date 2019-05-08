@@ -16,6 +16,12 @@ Robo controlado por bluetooth com bomba d'água para extinguir chamas.
 
 Componentes utilizados:
 
+*mbed LPC1768
+
+*Mini Protoboard 170 Pontos
+
+*Bateria externa para embarcados
+
 *Mini bomba de água DC-JT160
 
 *Módulo Bluetooth
@@ -23,3 +29,4 @@ Componentes utilizados:
 *2 x Motor DC 6-12V com caixa de redução
 
 *Ponte H baixa potência
+
