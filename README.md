@@ -1,10 +1,10 @@
-# Blastoise Robot
+﻿# Blastoise Robot
 
 Nome:                       RA:
 
-Gabriel Soares Campanário   16.00151-6 
-
 Willian Rodrigues Chan      16.01095-7
+
+Gabriel Soares Campanário   16.00151-6 
 
 Kevin Yuki Okawa Iiyama     16.01391-3
 
@@ -20,13 +20,14 @@ Componentes utilizados:
 
 *Mini Protoboard 170 Pontos
 
-*Bateria externa para embarcados
-
 *Mini bomba de água DC-JT160
 
 *Módulo Bluetooth
 
-*2 x Motor DC 6-12V com caixa de redução
+*2 * Motor DC 6-12V com caixa de redução
 
-*Ponte H baixa potência
+*2 * Ponte H baixa potência
 
+*Bateria 9v
+
+*PowerBank
